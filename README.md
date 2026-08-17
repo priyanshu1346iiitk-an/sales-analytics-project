@@ -119,7 +119,7 @@ The first page focuses on overall sales performance.
 
 ### Dashboard Preview
 
-![Sales Analytics Dashboard](Page1_Sales_Analytics.png)
+![Sales Analytics Dashboard](sales-dashboard.png)
 
 ---
 
@@ -143,7 +143,7 @@ The second page focuses on customer value and purchasing behavior.
 
 ### Dashboard Preview
 
-![Customer Analysis Dashboard](Page2_Customer_Analysis.png)
+![Customer Analysis Dashboard](customer-dashboard.png)
 
 ---
 
@@ -219,8 +219,8 @@ All **5 customers** in the dataset were repeat customers.
 
 - [SQL Analysis](Sales_Analytics_Project.sql)
 - [Power BI Dashboard](Sales_Analytics_Dashboard.pbix)
-- [Sales Analytics Screenshot](Page1_Sales_Analytics.png)
-- [Customer Analysis Screenshot](Page2_Customer_Analysis.png)
+- [Sales Analytics Screenshot](sales-dashboard.png)
+- [Customer Analysis Screenshot](customer-dashboard.png)
 
 ---
 
